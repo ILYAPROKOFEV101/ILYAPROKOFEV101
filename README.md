@@ -48,7 +48,7 @@
 
 ### **Фриланс (Upwork)** (Сентябрь 2023 – Февраль 2024)
 - Разработка MVP для 5+ клиентов
-- Интеграция Firebase, Google Maps API, платежных систем
+- Интеграция Firebase, Google Maps API
 
 ### **Комьюнити-менеджер** (3500+ участников)
 [![Telegram Community](https://img.shields.io/badge/Сообщество-Тестировщики_Google_Play-%232CA5E0)](https://t.me/testimgoogleplay)
