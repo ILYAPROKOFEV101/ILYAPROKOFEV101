@@ -30,8 +30,7 @@
 ### **Дополнительные навыки**
 ![SQL](https://img.shields.io/badge/SQL-%23F29111?logo=postgresql) Оптимизация запросов  
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git) Продвинутая работа с Git  
-![REST](https://img.shields.io/badge/REST-%23575757?logo=rest) API Design  
-![CI/CD](https://img.shields.io/badge/CI/CD-%232C3E50?logo=github-actions) Настройка пайплайнов
+
 
 ---
 
