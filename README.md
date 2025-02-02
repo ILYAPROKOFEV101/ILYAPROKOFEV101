@@ -2,7 +2,6 @@
 **Мобильный разработчик (Kotlin/Java/Swift)**  
 [![Telegram](https://img.shields.io/badge/Telegram-ilya_Prokofev-%232CA5E0?logo=telegram)](https://t.me/ilya_Prokofev)
 [![Email](https://img.shields.io/badge/Email-ilaprokofev14@gmail.com-%23EA4335?logo=gmail)](mailto:ilaprokofev14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ILYAPROK-%23181717?logo=github)](https://github.com/ILYAPROK)
 
 ---
 
