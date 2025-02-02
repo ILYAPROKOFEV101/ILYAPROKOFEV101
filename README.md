@@ -6,21 +6,35 @@
 ---
 
 ## 🛠 Технический стек
+
 ### **Языки и платформы**
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343?logo=swift&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84?logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-%23000000?logo=apple)
+- [Kotlin](https://kotlinlang.org/) — Основной язык для Android-разработки
+- [Swift](https://www.swift.org/) — Разработка под iOS и macOS
+- [Java](https://www.java.com/) — Дополнительный язык для бэкенда и Android
+- [Android](https://developer.android.com/) — Нативная платформа для мобильной разработки
+- [iOS](https://developer.apple.com/ios/) — Платформа для разработки под Apple устройства
 
 ### **Архитектура**
+- Clean Architecture
+- MVVM (Model-View-ViewModel)
+- Многомодульная структура проектов
 
-### **Инструменты**
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%234285F4?logo=jetpack-compose)
-![Ktor](https://img.shields.io/badge/Ktor-%23000000?logo=ktor)
-![Firebase](https://img.shields.iobadge/Firebase-%23FFCA28?logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?logo=postgresql)
+### **Инструменты и технологии**
+- [Jetpack Compose](https://developer.android.com/jetpack/compose) — Декларативный UI-фреймворк для Android
+- [Ktor](https://ktor.io/) — Фреймворк для построения асинхронных серверов и клиентов
+- [Firebase](https://firebase.google.com/) — Бэкенд-сервисы и аналитика
+- [Redis](https://redis.io/) — In-memory data structure store
+- [PostgreSQL](https://www.postgresql.org/) — Реляционная база данных
+- [SQL](https://en.wikipedia.org/wiki/SQL) — Работа с реляционными БД
+- [Docker](https://www.docker.com/) — Контейнеризация приложений
 
 ---
+
+#### Дополнительные навыки:
+- Оптимизация SQL-запросов
+- Работа с системами кеширования
+- Проектирование REST API
+- Настройка CI/CD pipelines
 
 ## 🚀 Ключевые проекты
 
