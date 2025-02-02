@@ -8,33 +8,33 @@
 ## 🛠 Технический стек
 
 ### **Языки и платформы**
-- [Kotlin](https://kotlinlang.org/) — Основной язык для Android-разработки
-- [Swift](https://www.swift.org/) — Разработка под iOS и macOS
-- [Java](https://www.java.com/) — Дополнительный язык для бэкенда и Android
-- [Android](https://developer.android.com/) — Нативная платформа для мобильной разработки
-- [iOS](https://developer.apple.com/ios/) — Платформа для разработки под Apple устройства
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white) [Kotlin](https://kotlinlang.org/) — Основной язык для Android  
+![Swift](https://img.shields.io/badge/Swift-%23FA7343?logo=swift&logoColor=white) [Swift](https://www.swift.org/) — Разработка для iOS  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white) [Java](https://www.java.com/) — Бэкенд и Android-легаси  
+![Android](https://img.shields.io/badge/Android-%233DDC84?logo=android&logoColor=black) [Android SDK](https://developer.android.com/)  
+![iOS](https://img.shields.io/badge/iOS-%23000000?logo=apple) [iOS SDK](https://developer.apple.com/ios/)
 
 ### **Архитектура**
-- Clean Architecture
-- MVVM (Model-View-ViewModel)
-- Многомодульная структура проектов
+![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-%2340C4FF?logo=archlinux)  
+![MVVM](https://img.shields.io/badge/MVVM-%23575757?logo=model-view-viewmodel)  
+![SOLID](https://img.shields.io/badge/SOLID-%230C4B33?logo=solid)
 
-### **Инструменты и технологии**
-- [Jetpack Compose](https://developer.android.com/jetpack/compose) — Декларативный UI-фреймворк для Android
-- [Ktor](https://ktor.io/) — Фреймворк для построения асинхронных серверов и клиентов
-- [Firebase](https://firebase.google.com/) — Бэкенд-сервисы и аналитика
-- [Redis](https://redis.io/) — In-memory data structure store
-- [PostgreSQL](https://www.postgresql.org/) — Реляционная база данных
-- [SQL](https://en.wikipedia.org/wiki/SQL) — Работа с реляционными БД
-- [Docker](https://www.docker.com/) — Контейнеризация приложений
+### **Инструменты и БД**
+![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-%234285F4?logo=jetpack-compose) [Compose](https://developer.android.com/jetpack/compose)  
+![Ktor](https://img.shields.io/badge/Ktor-%23000000?logo=ktor) [Ktor Framework](https://ktor.io/)  
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase) [Firebase Services](https://firebase.google.com/)  
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis) [Redis](https://redis.io/)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?logo=postgresql) [PostgreSQL](https://www.postgresql.org/)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker) [Docker](https://www.docker.com/)
+
+### **Дополнительные навыки**
+![SQL](https://img.shields.io/badge/SQL-%23F29111?logo=postgresql) Оптимизация запросов  
+![Git](https://img.shields.io/badge/Git-%23F05032?logo=git) Продвинутая работа с Git  
+![REST](https://img.shields.io/badge/REST-%23575757?logo=rest) API Design  
+![CI/CD](https://img.shields.io/badge/CI/CD-%232C3E50?logo=github-actions) Настройка пайплайнов
 
 ---
 
-#### Дополнительные навыки:
-- Оптимизация SQL-запросов
-- Работа с системами кеширования
-- Проектирование REST API
-- Настройка CI/CD pipelines
 
 ## 🚀 Ключевые проекты
 
