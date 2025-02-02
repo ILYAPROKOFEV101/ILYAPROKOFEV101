@@ -24,14 +24,14 @@
 
 ## 🚀 Ключевые проекты
 
-### [Code with Friends](https://www.rustore.ru/catalog/app/com.ilya.codewithfriends) 
+### [Code with Friends](https://github.com/ILYAPROKOFEV101/Code-with-Friends) 
 **Социальная сеть для программистов**  
 `Kotlin` `Ktor` `Jetpack Compose` `PostgreSQL` `WebSocket`
 - Реализовал чаты с медиа-контентом (GIF/видео) + кастомный плеер
 - Сервер на Ktor с микросервисной архитектурой
 - 3500+ пользователей в сообществе
 
-### [MeetMap](https://github.com/ILYAPROK/MeetMapKMP) 
+### [MeetMap](https://github.com/ILYAPROKOFEV101/MeetMapKMP) 
 **Социальная сеть с картами**  
 `KMP` `SwiftUI` `Google Maps SDK` `SQLDelight`
 - Кроссплатформенное решение (Android/iOS)
