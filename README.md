@@ -9,7 +9,6 @@
 
 ### **Языки и платформы**
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white) [Kotlin](https://kotlinlang.org/) — Основной язык для Android и Бэкенд
-![Swift](https://img.shields.io/badge/Swift-%23FA7343?logo=swift&logoColor=white) [Swift](https://www.swift.org/) — Разработка для iOS  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white) [Java](https://www.java.com/) —  Android-легаси  
 ![Android](https://img.shields.io/badge/Android-%233DDC84?logo=android&logoColor=black) [Android SDK](https://developer.android.com/)  
 ![iOS](https://img.shields.io/badge/iOS-%23000000?logo=apple) [iOS SDK](https://developer.apple.com/ios/)
