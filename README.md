@@ -1,55 +1,73 @@
-# 👨💻 Илья Прокофьев 
-**Мобильный разработчик (Kotlin/Java/Swift)**  
-[![Telegram](https://img.shields.io/badge/Telegram-ilya_Prokofev-%232CA5E0?logo=telegram)](https://t.me/ilya_Prokofev)
-[![Email](https://img.shields.io/badge/Email-ilaprokofev14@gmail.com-%23EA4335?logo=gmail)](mailto:ilaprokofev14@gmail.com)
+# 👋 Привет, я Илья Прокофьев
+
+💻 Android / Kotlin Developer  
+📱 Разрабатываю мобильные приложения и backend сервисы  
 
 ---
 
-## 🛠 Технический стек
+## 🚀 Обо мне
 
-### **Языки и платформы**
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white) [Kotlin](https://kotlinlang.org/) — Основной язык для Android и Бэкенд
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white) [Java](https://www.java.com/) —  Android-легаси  
-![Android](https://img.shields.io/badge/Android-%233DDC84?logo=android&logoColor=black) [Android SDK](https://developer.android.com/)  
-![iOS](https://img.shields.io/badge/iOS-%23000000?logo=apple) [iOS SDK](https://developer.apple.com/ios/)
-
-### **Архитектура**
-![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-%2340C4FF?logo=archlinux)  
-![MVVM](https://img.shields.io/badge/MVVM-%23575757?logo=model-view-viewmodel)  
-![SOLID](https://img.shields.io/badge/SOLID-%230C4B33?logo=solid)
-
-### **Инструменты и БД**
-![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-%234285F4?logo=jetpack-compose) [Compose](https://developer.android.com/jetpack/compose)  
-![Ktor](https://img.shields.io/badge/Ktor-%23000000?logo=ktor) [Ktor Framework](https://ktor.io/)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase) [Firebase Services](https://firebase.google.com/)  
-![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis) [Redis](https://redis.io/)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?logo=postgresql) [PostgreSQL](https://www.postgresql.org/)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker) [Docker](https://www.docker.com/)
-
-### **Дополнительные навыки**
-![SQL](https://img.shields.io/badge/SQL-%23F29111?logo=postgresql) Оптимизация запросов  
-![Git](https://img.shields.io/badge/Git-%23F05032?logo=git) Продвинутая работа с Git  
-
+- Android разработчик с коммерческим опытом **более 1 года**
+- Основной стек: **Kotlin + Jetpack Compose**
+- Разрабатываю backend на **Ktor**
+- Создаю приложения, которыми пользуются **1000+ сотрудников**
+- Участвовал в разработке музыкального приложения, которое было **успешно продано**
 
 ---
+
+## 🛠 Технологии
+
+
+Kotlin • Java • Android SDK • Jetpack Compose • XML UI • MVVM • MVP • Clean Architecture • SOLID • Coroutines • Flow • StateFlow • SharedFlow • Retrofit • OkHttp • REST API • JSON • Room • SQLite • Ktor • Backend Development • API Design • JWT Authentication • PostgreSQL • Exposed ORM • Firebase • Firebase Auth • Firebase Cloud Messaging • Google Maps SDK • Yandex MapKit • Git • GitHub • Gradle • Android Studio • Debugging • Unit Testing • UI Testing • CI/CD • Agile • Scrum
+---
+
+## 📱 Проекты
+
+### 🎵 Музыкальное приложение
+Android приложение разработанное в составе стартап команды.
+
+**Технологии**
+- Kotlin
+- Jetpack Compose
+- REST API
+
+Проект был завершён и продан в **мае 2025**.
+
+---
+
+### 🗺 MapMarker Library
+
+Библиотека для работы с динамическими маркерами на карте.
+
+**Особенности**
+
+- кастомные маркеры
+- динамическая генерация
+- высокая производительность
+
+🚀 Оптимизация позволила **увеличить скорость отрисовки в 2 раза**
+
+---
+
+## 🌍 Комьюнити
+
+Сооснователь крупнейшего русскоязычного сообщества  
+**"Тестировщики Google Play"**
+
+- 5400+ участников
+- помог 1500+ разработчикам опубликовать приложения
 
 ---
 
 ## 🏆 Достижения
-| Награда | Описание |
-|---------|----------|
-| **🥇 Всероссийский хакатон** | Приложение для мониторинга здоровья на ОС "Аврора" (QML/C++) |
-| **🏆 Арктика на связи** | Лучший MVP для развития туризма в Арктике (NordMap) |
-| **🚀 SberTechRun** | Участник ежегодного хакатона от Сбера |
+
+🥇 1 место — Всероссийский хакатон ОС Аврора  
+🥇 1 место — Международная конференция «Арктика на связи»  
+🎯 Участник хакатона SberTechRun  
 
 ---
 
-## 📚 Образование
-**ГУАП** (2022-2026)  
-*Информационные системы и программирование*  
-- Совмещаю учебу с коммерческой разработкой
-- Активно участвую в хакатонах и IT-мероприятиях
+## 📫 Контакты
 
----
-
-
+📧 Email: ilaprokofev14@gmail.com  
+💬 Telegram: https://t.me/Ilya_Prokofev
